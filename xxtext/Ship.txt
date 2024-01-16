@@ -1,0 +1,3 @@
+tag,	name,	race,	alliances-enemies, val1, val2
+"SHIP0003", "Blackbird", "HUMAN", "none|none|none|none", 0.0, 0
+"SHIP0004", "Sunburst",  "HUMAN", "none|none|none|none", 0.0, 0

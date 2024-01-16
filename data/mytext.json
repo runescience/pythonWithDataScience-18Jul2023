@@ -1,0 +1,252 @@
+{
+  "SP": {
+    "cost": 100,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 100,
+    "startVal": 10,
+    "name": "SPARES",
+    "comment": " Repair Damage 1:1"
+  },
+  "PE": {
+    "cost": 1,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 2000,
+    "startVal": 100,
+    "name": "PEOPLE",
+    "comment": " are used to colonize. POP grows at 10% on ships"
+  },
+  "MO": {
+    "cost": 1,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 65000,
+    "startVal": 50,
+    "name": "MONEY",
+    "comment": "is what you spend to buy things"
+  },
+  "SH": {
+    "cost": 250,
+    "start": 1,
+    "adv": 1,
+    "xyx": 1,
+    "max": 99,
+    "startVal": 10,
+    "name": "SHIELDS",
+    "comment": "Stops 3 pts of damage per .1 of energy spent"
+  },
+  "AR": {
+    "cost": 50,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 99,
+    "startVal": 10,
+    "name": "ARMOR",
+    "comment": "Stops 5 pts of damage. Flat Rate"
+  },
+  "MI": {
+    "cost": 10,
+    "start": 5,
+    "adv": 1,
+    "xyx": 1,
+    "max": 100,
+    "startVal": 5,
+    "name": "MISSLES",
+    "comment": "Causes 10pts of damage per shot fired"
+  },
+  "DR": {
+    "cost": 5500,
+    "start": 2,
+    "adv": 1,
+    "xyx": 1,
+    "max": 99,
+    "startVal": 2,
+    "name": "DRONES",
+    "comment": "Collects a set amount of ore per turn"
+  },
+  "CR": {
+    "cost": 10000,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 3,
+    "startVal": 1,
+    "name": "  CR FRAME",
+    "comment": "This is the basis of yoru ship"
+  },
+  "SC": {
+    "cost": 1000,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 2,
+    "startVal": 1,
+    "name": "SCANNER",
+    "comment": "Shows map in a 5x5 grid with you in center"
+  },
+  "EN": {
+    "cost": 5000,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 6,
+    "startVal": 2,
+    "name": "ENGINES",
+    "comment": "Provide 5 points of energy per engine"
+  },
+  "OR": {
+    "cost": 1,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 10000,
+    "startVal": 0,
+    "name": "ORE",
+    "comment": "Basic Ore Sells for 1 unit of MONEY"
+  },
+  "CH": {
+    "cost": 10000,
+    "start": 0,
+    "adv": 1,
+    "xyx": 1,
+    "max": 4,
+    "startVal": 1,
+    "name": "CARGO HULL",
+    "comment": "Extend the capacity of your ship by 10000 ore"
+  },
+  "MN": {
+    "cost": 100,
+    "start": 1,
+    "adv": 2,
+    "xyx": 1,
+    "max": 4,
+    "startVal": 0,
+    "name": "MINE FIELD",
+    "comment": "Lay a damage field in a sector."
+  },
+  "LA": {
+    "cost": 5000,
+    "start": 1,
+    "adv": 2,
+    "xyx": 1,
+    "max": 4,
+    "startVal": 0,
+    "name": "LASER",
+    "comment": "Causes 2 pts of dam per .1 of energy expended    "
+  },
+  "F1": {
+    "cost": 25000,
+    "start": 3,
+    "adv": 2,
+    "xyx": 1,
+    "max": 2,
+    "startVal": 0,
+    "name": "FACTORY 1",
+    "comment": "Produces Items up to size 1"
+  },
+  "F2": {
+    "cost": 50000,
+    "start": 3,
+    "adv": 2,
+    "xyx": 1,
+    "max": 2,
+    "startVal": 0,
+    "name": "  FACTORY 2",
+    "comment": "Produces Items up to size 2"
+  },
+  "F3": {
+    "cost": 75000,
+    "start": 3,
+    "adv": 2,
+    "xyx": 1,
+    "max": 2,
+    "startVal": 0,
+    "name": "  FACTORY 3",
+    "comment": "Produces Items up to size 3"
+  },
+  "E1": {
+    "cost": 25000,
+    "start": 0,
+    "adv": 3,
+    "xyx": 1,
+    "max": 4,
+    "startVal": 0,
+    "name": "ENH ENGINES+1",
+    "comment": " Provide 7 points of energy per engine"
+  },
+  "E2": {
+    "cost": 40000,
+    "start": 0,
+    "adv": 3,
+    "xyx": 1,
+    "max": 4,
+    "startVal": 0,
+    "name": "ENH ENGINES+2",
+    "comment": " Provide 9 points of energy per engine"
+  },
+  "S1": {
+    "cost": 20000,
+    "start": 3,
+    "adv": 3,
+    "xyx": 1,
+    "max": 1,
+    "startVal": 0,
+    "name": "ENH SCANNER+1",
+    "comment": " Shows sectors in a 6x6 grid centered on U"
+  },
+  "S2": {
+    "cost": 35000,
+    "start": 4,
+    "adv": 3,
+    "xyx": 1,
+    "max": 1,
+    "startVal": 0,
+    "name": "ENH SCANNER+2",
+    "comment": "Shows sectors in a 7x7 grid centered on U"
+  },
+  "NK": {
+    "cost": 5000,
+    "start": 4,
+    "adv": 3,
+    "xyx": 1,
+    "max": 1,
+    "startVal": 0,
+    "name": "NUKE",
+    "comment": "Kills 100 PEOPLE in a COLONY"
+  },
+  "T1": {
+    "cost": 50000,
+    "start": 4,
+    "adv": 4,
+    "xyx": 1,
+    "max": 1,
+    "start": 0,
+    "name": "TELEPORTER 1",
+    "comment": "Teleports upto size 1 anywhere in sector"
+  },
+  "T2": {
+    "cost": 95000,
+    "start": 4,
+    "adv": 4,
+    "xyx": 1,
+    "max": 1,
+    "startVal": 0,
+    "name": "  TELEPORTER 2",
+    "comment": "Teleports upto size 2 anywhere in sector"
+  },
+  "CB": {
+    "cost": 5000,
+    "start": 0,
+    "adv": 4,
+    "xyx": 1,
+    "max": 1,
+    "startVal": 0,
+    "name": "  COMM BEACONS",
+    "comment": "You are alerted as to passing ships"
+  }
+}

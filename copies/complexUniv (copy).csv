@@ -1,0 +1,37 @@
+Max,  Energy, Cost,   HP,     Start,  Tech, Abbr,  Name                       , Comment
+2000,  .001 ,  0      ,  1   ,  200,    1,   pe,   People                     , colonists
+10000,  0   ,  0      ,  1   ,  0  ,    1,   or,   Ore                        , mined ore. sellable
+10,    .1   ,  50     ,  1   ,  3  ,    1,   mi,   Missiles                   , inflicts 2pts of damage
+1,     .5   ,  250    ,  1   ,  0  ,    1,   sd,   Shields                    , reduces damage by 2 times energy used
+5,      0   ,  50     ,  1   ,  3  ,    1,   ar,   Armor                      , absorbs 3 pts of damage
+2,      0   ,  5000   , 10   ,  1  ,    1,   en,   Engines                    , generates 5 pts of energy
+5,      0   ,  2000   ,  1   ,  0  ,    1,   bw,   Beam weapon                , energy beam weapon  
+4,     .1   ,  250    ,  1   ,  2  ,    1,   md,   Mining drone               , mines and retrieves upto 1000 units of ore from space or planetside
+5,      0   ,  500    ,  2   ,  1  ,    1,   ch,   Cargo hold                 , holds 10000 units of ore
+1,     .2   ,  250    ,  1   ,  1  ,    1,   sc,   Scanner                    , scans out 2 sectors in all directions. totalling 24.
+0,      0   ,  2500   , 10   ,  0   ,   1,   pd,   Planetary defence battery  , contains: 5 energy. 10 armor.  and 1 shield device
+0,     .5   ,  2500   ,  2   ,  0   ,   1,   re,   Refinery                   , doubles networth of ore. refines up to 10000 per turn if you have enough cargo hulls
+0,     .5   ,  100    ,  2   ,  0   ,   1,   ct,   CET                        , allows colonization of barren planets. Uses 1 cargo hull.(Adv     
+0,      0   ,  10000  ,  8   ,  0   ,   1,   cr,   Cruiser frame              , must be tractored till you purchase an engine.
+0,     .5   ,  2000   ,  1   ,  0   ,   1,   tr,   Tractor Beam               , used to tow damaged Cruisers
+4,     .2   ,  500    ,  1   ,  0   ,   1,   sh,   Shuttle                    , carries 100 
+10,     0   ,  100    ,  1   ,  5   ,    1,  sp,   Spares                     , used to repair equipment
+0,     .3   ,  200    ,  1   ,  0   ,   2,   tp,   Torpedo                    , does 10 pts of damage can be fired into another sector in the advanced game.
+0,      0   ,  500    ,  2   ,  0   ,   2,   tl,   Torpedo launcher           , lauches torpedos
+0,      0   ,  20000  , 10   ,  0   ,   2,   ps,   Planet shield              , impenetrable shield vs opponents. uses 1 cargo hull
+0,     .5   ,  5000   ,  1   ,  0   ,   2,   fb,   Force beam                 , ignores armor. 
+0,     0    ,  5000   ,  1   ,  0   ,   2,   sb,   Star bomb                  , star bomb blots out star for unknown amount of time 
+4,     0    ,  2500   ,  1   ,  0   ,   2,   ts,   Transporter                , cannot get past active shield
+0,     0    ,  500    ,  1   ,  0   ,   2,   tb,   Transporter bomb           , does 1 pt damage to engines
+2,     1    ,  1500   ,  1   ,  0   ,   2,   bs,   Boosters                   , move an extra sector
+1,     0    ,  5000   ,  2   ,  0   ,   3,   s1,   Enhanced scan +1           , scans the 3 layer.
+1,     0    ,  7500   ,  2   ,  0   ,   3,   s2,   Enhanced scan +2           , scans the 4 layer.
+2b,    0    ,  10000  , 12   ,  0   ,   3,   e1,   Enhanced engine            , +1 yields a total of 6 energy pts
+2b,    0    ,  15000  , 14   ,  0   ,   3,   e2,   Enhanced engine            , +2 yields a total of 7 energy pts
+1,     0    ,  10000  ,  2   ,  0   ,   3,   wd,   Warp drive                 , allows use of warp point
+0,     50   ,  2500   ,  2   ,  0   ,   3,   wp,   Warp point                 , zip from one point in space to the next. uses 1/2 cargo hull
+0,     0    ,  10000  ,  1   ,  0   ,   3,   ad,   Armageddon device          , Renders planet useless for the remainder of the game
+1,     0    ,  10000  ,  1   ,  0   ,   3,   gg,   Imp globe generator        , creates an impenetrable field around ship. nothing gets in or out. No other actions maybe taken during this turn.
+
+
+

@@ -1,0 +1,6 @@
+
+tag.		owner,  xx,	name,	xx,	yy,	occupants,
+"PLNT0033", "SHIP0003", "1", "EARTH", 	3,	5, 	"HUMAN", 	0,	1,
+"PLNT0034", "SHIP0003", "1", "JUPITER", 8,	0, 	"HUMAN", 	0,	0, 
+"PLNT0035", "SHIP0003",	"1", "Corbis",	8,	5, 	"HUMAN", 	0,	1, 
+

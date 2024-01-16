@@ -1,0 +1,7 @@
+
+	String 	Player; // playeraccount:UID
+	int 	GameID; // GameDefinition:GameID
+	String	Status; // player; admin
+
+	
+"jodasi", 1, "admin"

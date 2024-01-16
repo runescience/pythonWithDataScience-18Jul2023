@@ -1,0 +1,4 @@
+owner,	tag,	shortname,quan
+"SHIP0003", "CACH0016", "SP", 6,
+"SHIP0003", "CACH0013", "EN", 1,
+

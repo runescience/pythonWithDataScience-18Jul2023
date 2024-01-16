@@ -1,0 +1,39 @@
+2024-01-16 16:51:21   Level:debug  Text:sunshine
+2024-01-16 16:52:28   Level:debug  Text:sunshine
+2024-01-16 16:52:48   Level:debug  Text:sunshine
+2024-01-16 16:53:03   Level:debug  Text:sunshine
+2024-01-16 16:53:03   Level:debug  Text:startprogram
+===============
+2024-01-16 16:53:33   Level:debug  Text:sunshine
+2024-01-16 16:53:33   Level:debug  Text:startprogram
+===============
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:0:0
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:PLAYER00000018
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:Rich:PLAYER
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:PLAYER at location:0,0
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:1:5
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:CACHE00000019
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:PLAYER00000018:CACHE
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:CACHE at location:1,5
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:1:5
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:CACHE00000020
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:PLAYER0001:CACHE
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:CACHE at location:1,5
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:17:6
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:SHIP00000021
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:PLAYER00000018:SHIP
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2024-01-16 16:53:33   Level:debug  Text:makeShip:SHIP00000021
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:123:45
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:CACHE00000022
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:MIKE:CACHE
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:CACHE at location:123,45
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:885:15
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:PLANET00000023
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:RedRaven:PLANET
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:PLANET at location:885,15
+2024-01-16 16:53:33   Level:transaction  Text:storeInLong:5:5
+2024-01-16 16:53:33   Level:transaction  Text:makeNewObject:SHIP00000024
+2024-01-16 16:53:33   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2024-01-16 16:53:33   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2024-01-16 16:53:33   Level:debug  Text:makeShip:SHIP00000024

@@ -1,0 +1,39 @@
+//NAME		ABR	 GROUP		COST BONUS MAX STARTQUAN
+
+
+ALCHEMIST,        AL, SPECIALIST,  0,   0,   0,   0
+ASSASSIN,         AS, SPECIALIST,  0,   0,   0,   0
+BATTLESPUR,       BA, NONE,        10,  0,   0,   0
+CATTLE,           CT, NONE,        10,  0,   0,   15   
+CHOCOLATE,        CH, NONE,        0,   0,   0,   0
+CLAIRVPOTION,     CL, NONE,        10,  0,   0,   0
+COAL,             C0, NONE,        0,   0,   0,   0
+COFFEE,           CF, NONE,        0,   0,   0,   0
+COPPER,           CP, NONE,        0,   0,   0,   0
+DAGIS,            DG, NONE,        0,   0,   0,   0
+FOOD,             FO, NONE,        0,   0,   0,   5
+GINSENG,          GI, NONE,        0,   0,   0,   0
+GOLD,             GO, NONE,        1,   0,   0,   0
+HUNTER,           HU, SPECIALIST,  0,   0,   0,   0
+IRON,             IR, NONE,        0,   0,   0,   0
+INVISPOTION,      IN, NONE,        10,  0,   0,   0
+LEADER,           LE, NONE,        0,   0,   0,   0
+MAGE,             MG, SPECIALIST,  0,   0,   0,   0
+MANCRYSTALS,      MA, NONE,        0,   0,   0,   0
+MINER,            MI, SPECIALIST,  0,   0,   0,   0
+NONE,             NO, NONE,        0,   0,   0,   0
+PARSELY,          PA, NONE,        0,   0,   0,   0
+PEASANT,          PE, NONE,        0,   0,   0,   0
+PELT,             PT, NONE,        0,   0,   0,   0
+PRIEST,           PR, SPECIALIST,  0,   0,   0,   0
+SPICES,           SP, NONE,        0,   0,   0,   0
+SIEGEENGINE,      SE, NONE,        0,   0,   0,   0
+SHIELDS,          SH, NONE,        0,   0,   0,   0
+SULPHUR,          SU, NONE,        0,   0,   0,   0
+THEIF,            TH, SPECIALIST,  0,   0,   0,   0
+VILLAGE,          VI, NONE,        0,   0,   0,   0
+WALLS,            WA, NONE,        0,   0,   0,   0
+WARRIOR,     WA, NONE,        0,   0,   0,   0
+WEAPONS,     WE, NONE,        0,   0,   0,   0
+WEAPONSMITH, WS, SPECIALIST,  0,   0,   0,   0
+

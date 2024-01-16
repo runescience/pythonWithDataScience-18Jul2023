@@ -1,0 +1,11 @@
+	String Owner;
+	String ItemTag;
+	String Longname;
+	String Shortname;
+	String Comment;
+	int Rating;
+
+"XXXX00000000",	"HAZD0028",	"Ion Storm", 	"IOS",	"No Comment", 5,
+"SHIP0003",	 	"HAZD0029",	"Mine Field", 	"MNF",	"No Comment", 5,
+
+ruby generate model Hazard string owner:string itemTag:string longname:string shortname:string comments:string rating:integer

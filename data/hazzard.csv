@@ -1,0 +1,12 @@
+short, name,hazardVal,comment,
+rev, Reavers,1,Reaver fleet space. Prepare to be borded. Boarding boats approaching,
+ast, Asteroid Field,2,Asteroid Field in range. Prepare for armor damage,
+rad, radiation storm,2,Warning:Radiation levels outside normal range. Your lives are indanger,
+pir, Pirates,3,Alert! You are in pirate occupied space. Vacate immediately or surrender.,
+neb, Nebula,4,Warning:Navigational Failure Eminent,
+ion, Ion Storm,5,Warning: Ion Storm lvl 5, Damage Eminent
+flt, Advanced Fleet,6,Advance Fleet are hailing you. Combat Eminent ,
+mon, Space Monster,7,Space monster lvl 7 in range. We are being persued,
+shn, The Shunovites,8,You are in Shunovite space. Prepare to be absorbed. ,
+qq1, Cueii,9,You are in Cueii space. Leave or be destroyed. Missles incoming.,
+sun, SuperNova,9, navigational and defense systems are off line, prepare for emergency maneuvers. 

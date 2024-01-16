@@ -1,0 +1,1119 @@
+===============================
+2022-08-05 17:42:10   Level:debug  Text:sunshine
+2022-08-05 17:42:10   Level:debug  Text:startprogram
+===============
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:0:0
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:PLAY00000062
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:SHIP00000063
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY00000062:SHIP
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 17:42:10   Level:debug  Text:makeShip:SHIP00000063
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:PLNT00000064
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY00000062:PLNT
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:CACH00000065
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY00000062:CACH
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:CACH00000066
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:123:45
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:CACH00000067
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:88:15
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:PLNT00000068
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:HZRD00000069
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:HZRD00000070
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:90:9
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:BEAC00000071
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:8:8
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:BEAC00000072
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:66:9
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:HOLE00000073
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:14:9
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:HOLE00000074
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 17:42:10   Level:transaction  Text:storeInLong:5:5
+2022-08-05 17:42:10   Level:transaction  Text:makeNewObject:SHIP00000075
+2022-08-05 17:42:10   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 17:42:10   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 17:42:10   Level:debug  Text:makeShip:SHIP00000075
+2022-08-05 17:43:09   Level:debug  Text:sunshine
+2022-08-05 17:43:09   Level:debug  Text:startprogram
+===============
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:0:0
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:PLAY00000076
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:SHIP00000077
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY00000076:SHIP
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 17:43:09   Level:debug  Text:makeShip:SHIP00000077
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:PLNT00000078
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY00000076:PLNT
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:CACH00000079
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY00000076:CACH
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:CACH00000080
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:123:45
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:CACH00000081
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:88:15
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:PLNT00000082
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:HZRD00000083
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:HZRD00000084
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:90:9
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:BEAC00000085
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:8:8
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:BEAC00000086
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:66:9
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:HOLE00000087
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:14:9
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:HOLE00000088
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 17:43:09   Level:transaction  Text:storeInLong:5:5
+2022-08-05 17:43:09   Level:transaction  Text:makeNewObject:SHIP00000089
+2022-08-05 17:43:09   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 17:43:09   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 17:43:09   Level:debug  Text:makeShip:SHIP00000089
+2022-08-05 17:44:30   Level:debug  Text:sunshine
+2022-08-05 17:44:30   Level:debug  Text:startprogram
+===============
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:0:0
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:PLAY00000090
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:SHIP00000091
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY00000090:SHIP
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 17:44:30   Level:debug  Text:makeShip:SHIP00000091
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:PLNT00000092
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY00000090:PLNT
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:CACH00000093
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY00000090:CACH
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:CACH00000094
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:123:45
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:CACH00000095
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:88:15
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:PLNT00000096
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:HZRD00000097
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:HZRD00000098
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:90:9
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:BEAC00000099
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:8:8
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:BEAC00000100
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:66:9
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:HOLE00000101
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:14:9
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:HOLE00000102
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 17:44:30   Level:transaction  Text:storeInLong:5:5
+2022-08-05 17:44:30   Level:transaction  Text:makeNewObject:SHIP00000103
+2022-08-05 17:44:30   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 17:44:30   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 17:44:30   Level:debug  Text:makeShip:SHIP00000103
+2022-08-05 17:45:02   Level:debug  Text:sunshine
+2022-08-05 17:45:02   Level:debug  Text:startprogram
+===============
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:0:0
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:PLAY00000104
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:SHIP00000105
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY00000104:SHIP
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 17:45:02   Level:debug  Text:makeShip:SHIP00000105
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:17:6
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:PLNT00000106
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY00000104:PLNT
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:CACH00000107
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY00000104:CACH
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:1:5
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:CACH00000108
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:123:45
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:CACH00000109
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:88:15
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:PLNT00000110
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:HZRD00000111
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:7:7
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:HZRD00000112
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:90:9
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:BEAC00000113
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:8:8
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:BEAC00000114
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:66:9
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:HOLE00000115
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:14:9
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:HOLE00000116
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 17:45:02   Level:transaction  Text:storeInLong:5:5
+2022-08-05 17:45:02   Level:transaction  Text:makeNewObject:SHIP00000117
+2022-08-05 17:45:02   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 17:45:02   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 17:45:02   Level:debug  Text:makeShip:SHIP00000117
+2022-08-05 18:21:47   Level:debug  Text:sunshine
+2022-08-05 18:21:47   Level:debug  Text:startprogram
+===============
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:PLAY00000118
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:SHIP00000119
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY00000118:SHIP
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:21:47   Level:debug  Text:makeShip:SHIP00000119
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:PLNT00000120
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY00000118:PLNT
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:CACH00000121
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY00000118:CACH
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:CACH00000122
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:CACH00000123
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:PLNT00000124
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:HZRD00000125
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:HZRD00000126
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:BEAC00000127
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:BEAC00000128
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:HOLE00000129
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:HOLE00000130
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:21:47   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:21:47   Level:transaction  Text:makeNewObject:SHIP00000131
+2022-08-05 18:21:47   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:21:47   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:21:47   Level:debug  Text:makeShip:SHIP00000131
+2022-08-05 18:24:37   Level:debug  Text:sunshine
+2022-08-05 18:24:37   Level:debug  Text:startprogram
+===============
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:PLAY00000132
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:SHIP00000133
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY00000132:SHIP
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:24:37   Level:debug  Text:makeShip:SHIP00000133
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:PLNT00000134
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY00000132:PLNT
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:CACH00000135
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY00000132:CACH
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:CACH00000136
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:CACH00000137
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:PLNT00000138
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:HZRD00000139
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:HZRD00000140
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:BEAC00000141
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:BEAC00000142
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:HOLE00000143
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:HOLE00000144
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:24:37   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:24:37   Level:transaction  Text:makeNewObject:SHIP00000145
+2022-08-05 18:24:37   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:24:37   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:24:37   Level:debug  Text:makeShip:SHIP00000145
+2022-08-05 18:26:04   Level:debug  Text:sunshine
+2022-08-05 18:26:04   Level:debug  Text:startprogram
+===============
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:PLAY00000146
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:SHIP00000147
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY00000146:SHIP
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:26:04   Level:debug  Text:makeShip:SHIP00000147
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:PLNT00000148
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY00000146:PLNT
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:CACH00000149
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY00000146:CACH
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:CACH00000150
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:CACH00000151
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:PLNT00000152
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:HZRD00000153
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:HZRD00000154
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:BEAC00000155
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:BEAC00000156
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:HOLE00000157
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:HOLE00000158
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:26:04   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:26:04   Level:transaction  Text:makeNewObject:SHIP00000159
+2022-08-05 18:26:04   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:26:04   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:26:04   Level:debug  Text:makeShip:SHIP00000159
+2022-08-05 18:35:37   Level:debug  Text:sunshine
+2022-08-05 18:35:37   Level:debug  Text:startprogram
+===============
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:PLAY00000160
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:SHIP00000161
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY00000160:SHIP
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:35:37   Level:debug  Text:makeShip:SHIP00000161
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:PLNT00000162
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY00000160:PLNT
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:CACH00000163
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY00000160:CACH
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:CACH00000164
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:CACH00000165
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:PLNT00000166
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:HZRD00000167
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:HZRD00000168
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:BEAC00000169
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:BEAC00000170
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:HOLE00000171
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:HOLE00000172
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:35:37   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:35:37   Level:transaction  Text:makeNewObject:SHIP00000173
+2022-08-05 18:35:37   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:35:37   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:35:37   Level:debug  Text:makeShip:SHIP00000173
+2022-08-05 18:36:43   Level:debug  Text:sunshine
+2022-08-05 18:36:43   Level:debug  Text:startprogram
+===============
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:PLAY00000174
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:SHIP00000175
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY00000174:SHIP
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:36:43   Level:debug  Text:makeShip:SHIP00000175
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:PLNT00000176
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY00000174:PLNT
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:CACH00000177
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY00000174:CACH
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:CACH00000178
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:CACH00000179
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:PLNT00000180
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:HZRD00000181
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:HZRD00000182
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:BEAC00000183
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:BEAC00000184
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:HOLE00000185
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:HOLE00000186
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:36:43   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:36:43   Level:transaction  Text:makeNewObject:SHIP00000187
+2022-08-05 18:36:43   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:36:43   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:36:43   Level:debug  Text:makeShip:SHIP00000187
+2022-08-05 18:37:41   Level:debug  Text:sunshine
+2022-08-05 18:37:41   Level:debug  Text:startprogram
+===============
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:PLAY00000188
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:SHIP00000189
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY00000188:SHIP
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:37:41   Level:debug  Text:makeShip:SHIP00000189
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:PLNT00000190
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY00000188:PLNT
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:CACH00000191
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY00000188:CACH
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:CACH00000192
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:CACH00000193
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:PLNT00000194
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:HZRD00000195
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:HZRD00000196
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:BEAC00000197
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:BEAC00000198
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:HOLE00000199
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:HOLE00000200
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:37:41   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:37:41   Level:transaction  Text:makeNewObject:SHIP00000201
+2022-08-05 18:37:41   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:37:41   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:37:41   Level:debug  Text:makeShip:SHIP00000201
+2022-08-05 18:38:38   Level:debug  Text:sunshine
+2022-08-05 18:38:38   Level:debug  Text:startprogram
+===============
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:PLAY00000202
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:SHIP00000203
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY00000202:SHIP
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:38:38   Level:debug  Text:makeShip:SHIP00000203
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:PLNT00000204
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY00000202:PLNT
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:CACH00000205
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY00000202:CACH
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:CACH00000206
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:CACH00000207
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:PLNT00000208
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:HZRD00000209
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:HZRD00000210
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:BEAC00000211
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:BEAC00000212
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:HOLE00000213
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:HOLE00000214
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:38:38   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:38:38   Level:transaction  Text:makeNewObject:SHIP00000215
+2022-08-05 18:38:38   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:38:38   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:38:38   Level:debug  Text:makeShip:SHIP00000215
+2022-08-05 18:43:42   Level:debug  Text:sunshine
+2022-08-05 18:43:42   Level:debug  Text:startprogram
+===============
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:PLAY00000216
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:SHIP00000217
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY00000216:SHIP
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:43:42   Level:debug  Text:makeShip:SHIP00000217
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:PLNT00000218
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY00000216:PLNT
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:CACH00000219
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY00000216:CACH
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:CACH00000220
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:CACH00000221
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:PLNT00000222
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:HZRD00000223
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:HZRD00000224
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:BEAC00000225
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:BEAC00000226
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:HOLE00000227
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:HOLE00000228
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:43:42   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:43:42   Level:transaction  Text:makeNewObject:SHIP00000229
+2022-08-05 18:43:42   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:43:42   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:43:42   Level:debug  Text:makeShip:SHIP00000229
+2022-08-05 18:44:16   Level:debug  Text:sunshine
+2022-08-05 18:44:16   Level:debug  Text:startprogram
+===============
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:0:0
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:PLAY00000230
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:SHIP00000231
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY00000230:SHIP
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 18:44:16   Level:debug  Text:makeShip:SHIP00000231
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:17:6
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:PLNT00000232
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY00000230:PLNT
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:CACH00000233
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY00000230:CACH
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:1:5
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:CACH00000234
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:CACH
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:CACH at location:1,5
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:123:45
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:CACH00000235
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:MIKE:CACH
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:CACH at location:123,45
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:88:15
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:PLNT00000236
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:RedRaven:PLNT
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:PLNT at location:88,15
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:HZRD00000237
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:7:7
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:HZRD00000238
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:HZRD
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:HZRD at location:7,7
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:90:9
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:BEAC00000239
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:BEAC at location:90,9
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:8:8
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:BEAC00000240
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:BEAC
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:BEAC at location:8,8
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:66:9
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:HOLE00000241
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:HOLE at location:66,9
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:14:9
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:HOLE00000242
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:PLAY0001:HOLE
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:HOLE at location:14,9
+2022-08-05 18:44:16   Level:transaction  Text:storeInLong:5:5
+2022-08-05 18:44:16   Level:transaction  Text:makeNewObject:SHIP00000243
+2022-08-05 18:44:16   Level:transaction  Text:createUniversObject:Bizmark:SHIP
+2022-08-05 18:44:16   Level:debug  Text:createUniversObject:SHIP at location:5,5
+2022-08-05 18:44:17   Level:debug  Text:makeShip:SHIP00000243
+2022-08-05 19:06:58   Level:debug  Text:sunshine
+2022-08-05 19:06:58   Level:debug  Text:startprogram
+===============
+2022-08-05 19:06:58   Level:transaction  Text:storeInLong:0:0
+2022-08-05 19:06:58   Level:transaction  Text:makeNewObject:PLAY00000244
+2022-08-05 19:06:58   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 19:06:58   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 19:06:58   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:06:58   Level:transaction  Text:makeNewObject:SHIP00000245
+2022-08-05 19:06:58   Level:transaction  Text:createUniversObject:PLAY00000244:SHIP
+2022-08-05 19:06:58   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 19:06:58   Level:debug  Text:makeShip:SHIP00000245
+2022-08-05 19:06:58   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:06:58   Level:transaction  Text:makeNewObject:PLNT00000246
+2022-08-05 19:06:58   Level:transaction  Text:createUniversObject:PLAY00000244:PLNT
+2022-08-05 19:06:58   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 19:20:57   Level:debug  Text:sunshine
+2022-08-05 19:20:57   Level:debug  Text:startprogram
+===============
+2022-08-05 19:20:57   Level:transaction  Text:storeInLong:0:0
+2022-08-05 19:20:57   Level:transaction  Text:makeNewObject:PLAY00000247
+2022-08-05 19:20:57   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 19:20:57   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 19:20:57   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:20:57   Level:transaction  Text:makeNewObject:SHIP00000248
+2022-08-05 19:20:57   Level:transaction  Text:createUniversObject:PLAY00000247:SHIP
+2022-08-05 19:20:57   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 19:20:57   Level:debug  Text:makeShip:SHIP00000248
+2022-08-05 19:20:57   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:20:57   Level:transaction  Text:makeNewObject:PLNT00000249
+2022-08-05 19:20:57   Level:transaction  Text:createUniversObject:PLAY00000247:PLNT
+2022-08-05 19:20:57   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 19:21:24   Level:debug  Text:sunshine
+2022-08-05 19:21:24   Level:debug  Text:startprogram
+===============
+2022-08-05 19:21:24   Level:transaction  Text:storeInLong:0:0
+2022-08-05 19:21:24   Level:transaction  Text:makeNewObject:PLAY00000250
+2022-08-05 19:21:24   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 19:21:24   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 19:21:24   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:21:24   Level:transaction  Text:makeNewObject:SHIP00000251
+2022-08-05 19:21:24   Level:transaction  Text:createUniversObject:PLAY00000250:SHIP
+2022-08-05 19:21:24   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 19:21:24   Level:debug  Text:makeShip:SHIP00000251
+2022-08-05 19:21:24   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:21:24   Level:transaction  Text:makeNewObject:PLNT00000252
+2022-08-05 19:21:24   Level:transaction  Text:createUniversObject:PLAY00000250:PLNT
+2022-08-05 19:21:24   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 19:22:37   Level:debug  Text:sunshine
+2022-08-05 19:22:37   Level:debug  Text:startprogram
+===============
+2022-08-05 19:22:37   Level:transaction  Text:storeInLong:0:0
+2022-08-05 19:22:37   Level:transaction  Text:makeNewObject:PLAY00000253
+2022-08-05 19:22:37   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 19:22:37   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 19:22:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:22:37   Level:transaction  Text:makeNewObject:SHIP00000254
+2022-08-05 19:22:37   Level:transaction  Text:createUniversObject:PLAY00000253:SHIP
+2022-08-05 19:22:37   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 19:22:37   Level:debug  Text:makeShip:SHIP00000254
+2022-08-05 19:22:37   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:22:37   Level:transaction  Text:makeNewObject:PLNT00000255
+2022-08-05 19:22:37   Level:transaction  Text:createUniversObject:PLAY00000253:PLNT
+2022-08-05 19:22:37   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 19:26:20   Level:debug  Text:sunshine
+2022-08-05 19:26:20   Level:debug  Text:startprogram
+===============
+2022-08-05 19:26:20   Level:transaction  Text:storeInLong:0:0
+2022-08-05 19:26:20   Level:transaction  Text:makeNewObject:PLAY00000256
+2022-08-05 19:26:20   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 19:26:20   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 19:26:20   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:26:20   Level:transaction  Text:makeNewObject:SHIP00000257
+2022-08-05 19:26:20   Level:transaction  Text:createUniversObject:PLAY00000256:SHIP
+2022-08-05 19:26:20   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 19:26:20   Level:debug  Text:makeShip:SHIP00000257
+2022-08-05 19:26:20   Level:transaction  Text:storeInLong:17:6
+2022-08-05 19:26:20   Level:transaction  Text:makeNewObject:PLNT00000258
+2022-08-05 19:26:20   Level:transaction  Text:createUniversObject:PLAY00000256:PLNT
+2022-08-05 19:26:20   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 20:07:33   Level:debug  Text:sunshine
+2022-08-05 20:07:33   Level:debug  Text:startprogram
+===============
+2022-08-05 20:07:33   Level:transaction  Text:storeInLong:0:0
+2022-08-05 20:07:33   Level:transaction  Text:makeNewObject:PLAY00000259
+2022-08-05 20:07:33   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 20:07:33   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 20:07:33   Level:transaction  Text:storeInLong:17:6
+2022-08-05 20:07:33   Level:transaction  Text:makeNewObject:SHIP00000260
+2022-08-05 20:07:33   Level:transaction  Text:createUniversObject:PLAY00000259:SHIP
+2022-08-05 20:07:33   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 20:07:33   Level:debug  Text:makeShip:SHIP00000260
+2022-08-05 20:07:33   Level:transaction  Text:storeInLong:17:6
+2022-08-05 20:07:33   Level:transaction  Text:makeNewObject:PLNT00000261
+2022-08-05 20:07:33   Level:transaction  Text:createUniversObject:PLAY00000259:PLNT
+2022-08-05 20:07:33   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-05 20:08:48   Level:debug  Text:sunshine
+2022-08-05 20:08:48   Level:debug  Text:startprogram
+===============
+2022-08-05 20:08:48   Level:transaction  Text:storeInLong:0:0
+2022-08-05 20:08:48   Level:transaction  Text:makeNewObject:PLAY00000262
+2022-08-05 20:08:48   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-05 20:08:48   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-05 20:08:48   Level:transaction  Text:storeInLong:17:6
+2022-08-05 20:08:48   Level:transaction  Text:makeNewObject:SHIP00000263
+2022-08-05 20:08:48   Level:transaction  Text:createUniversObject:PLAY00000262:SHIP
+2022-08-05 20:08:48   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-05 20:08:48   Level:debug  Text:makeShip:SHIP00000263
+2022-08-05 20:08:48   Level:transaction  Text:storeInLong:17:6
+2022-08-05 20:08:48   Level:transaction  Text:makeNewObject:PLNT00000264
+2022-08-05 20:08:48   Level:transaction  Text:createUniversObject:PLAY00000262:PLNT
+2022-08-05 20:08:48   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 02:40:48   Level:debug  Text:sunshine
+2022-08-07 02:40:48   Level:debug  Text:startprogram
+===============
+2022-08-07 02:40:48   Level:transaction  Text:storeInLong:0:0
+2022-08-07 02:40:48   Level:transaction  Text:makeNewObject:PLAY00000265
+2022-08-07 02:40:48   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 02:40:48   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 02:40:48   Level:transaction  Text:storeInLong:17:6
+2022-08-07 02:40:48   Level:transaction  Text:makeNewObject:SHIP00000266
+2022-08-07 02:40:48   Level:transaction  Text:createUniversObject:PLAY00000265:SHIP
+2022-08-07 02:40:48   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 02:40:48   Level:debug  Text:makeShip:SHIP00000266
+2022-08-07 02:40:48   Level:transaction  Text:storeInLong:17:6
+2022-08-07 02:40:48   Level:transaction  Text:makeNewObject:PLNT00000267
+2022-08-07 02:40:48   Level:transaction  Text:createUniversObject:PLAY00000265:PLNT
+2022-08-07 02:40:48   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 08:39:51   Level:debug  Text:sunshine
+2022-08-07 08:39:51   Level:debug  Text:startprogram
+===============
+2022-08-07 08:39:51   Level:transaction  Text:storeInLong:0:0
+2022-08-07 08:39:51   Level:transaction  Text:makeNewObject:PLAY00000268
+2022-08-07 08:39:51   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 08:39:51   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 08:39:51   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:39:51   Level:transaction  Text:makeNewObject:SHIP00000269
+2022-08-07 08:39:51   Level:transaction  Text:createUniversObject:PLAY00000268:SHIP
+2022-08-07 08:39:51   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 08:39:51   Level:debug  Text:makeShip:SHIP00000269
+2022-08-07 08:39:51   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:39:51   Level:transaction  Text:makeNewObject:PLNT00000270
+2022-08-07 08:39:51   Level:transaction  Text:createUniversObject:PLAY00000268:PLNT
+2022-08-07 08:39:51   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 08:41:04   Level:debug  Text:sunshine
+2022-08-07 08:41:04   Level:debug  Text:startprogram
+===============
+2022-08-07 08:41:04   Level:transaction  Text:storeInLong:0:0
+2022-08-07 08:41:04   Level:transaction  Text:makeNewObject:PLAY00000271
+2022-08-07 08:41:04   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 08:41:04   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 08:41:04   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:41:04   Level:transaction  Text:makeNewObject:SHIP00000272
+2022-08-07 08:41:04   Level:transaction  Text:createUniversObject:PLAY00000271:SHIP
+2022-08-07 08:41:04   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 08:41:04   Level:debug  Text:makeShip:SHIP00000272
+2022-08-07 08:41:04   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:41:04   Level:transaction  Text:makeNewObject:PLNT00000273
+2022-08-07 08:41:04   Level:transaction  Text:createUniversObject:PLAY00000271:PLNT
+2022-08-07 08:41:04   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 08:50:11   Level:debug  Text:sunshine
+2022-08-07 08:50:11   Level:debug  Text:startprogram
+===============
+2022-08-07 08:50:11   Level:transaction  Text:storeInLong:0:0
+2022-08-07 08:50:11   Level:transaction  Text:makeNewObject:PLAY00000274
+2022-08-07 08:50:11   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 08:50:11   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 08:50:11   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:50:11   Level:transaction  Text:makeNewObject:SHIP00000275
+2022-08-07 08:50:11   Level:transaction  Text:createUniversObject:PLAY00000274:SHIP
+2022-08-07 08:50:11   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 08:50:11   Level:debug  Text:makeShip:SHIP00000275
+2022-08-07 08:50:11   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:50:11   Level:transaction  Text:makeNewObject:PLNT00000276
+2022-08-07 08:50:11   Level:transaction  Text:createUniversObject:PLAY00000274:PLNT
+2022-08-07 08:50:11   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 08:55:56   Level:debug  Text:sunshine
+2022-08-07 08:55:56   Level:debug  Text:startprogram
+===============
+2022-08-07 08:55:56   Level:transaction  Text:storeInLong:0:0
+2022-08-07 08:55:56   Level:transaction  Text:makeNewObject:PLAY00000277
+2022-08-07 08:55:56   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 08:55:56   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 08:55:56   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:55:56   Level:transaction  Text:makeNewObject:SHIP00000278
+2022-08-07 08:55:56   Level:transaction  Text:createUniversObject:PLAY00000277:SHIP
+2022-08-07 08:55:56   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 08:55:56   Level:debug  Text:makeShip:SHIP00000278
+2022-08-07 08:55:56   Level:transaction  Text:storeInLong:17:6
+2022-08-07 08:55:56   Level:transaction  Text:makeNewObject:PLNT00000279
+2022-08-07 08:55:56   Level:transaction  Text:createUniversObject:PLAY00000277:PLNT
+2022-08-07 08:55:56   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:07:13   Level:debug  Text:sunshine
+2022-08-07 09:07:13   Level:debug  Text:startprogram
+===============
+2022-08-07 09:07:13   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:07:13   Level:transaction  Text:makeNewObject:PLAY00000280
+2022-08-07 09:08:43   Level:debug  Text:sunshine
+2022-08-07 09:08:43   Level:debug  Text:startprogram
+===============
+2022-08-07 09:08:43   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:08:43   Level:transaction  Text:makeNewObject:PLAY00000281
+2022-08-07 09:08:43   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:08:43   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:08:43   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:08:43   Level:transaction  Text:makeNewObject:SHIP00000282
+2022-08-07 09:08:43   Level:transaction  Text:createUniversObject:PLAY00000281:SHIP
+2022-08-07 09:08:43   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:08:43   Level:debug  Text:makeShip:SHIP00000282
+2022-08-07 09:08:43   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:08:43   Level:transaction  Text:makeNewObject:PLNT00000283
+2022-08-07 09:08:43   Level:transaction  Text:createUniversObject:PLAY00000281:PLNT
+2022-08-07 09:08:43   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:10:22   Level:debug  Text:sunshine
+2022-08-07 09:10:22   Level:debug  Text:startprogram
+===============
+2022-08-07 09:10:22   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:10:22   Level:transaction  Text:makeNewObject:PLAY00000284
+2022-08-07 09:10:22   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:10:22   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:10:22   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:10:22   Level:transaction  Text:makeNewObject:SHIP00000285
+2022-08-07 09:10:22   Level:transaction  Text:createUniversObject:PLAY00000284:SHIP
+2022-08-07 09:10:22   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:10:22   Level:debug  Text:makeShip:SHIP00000285
+2022-08-07 09:10:22   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:10:22   Level:transaction  Text:makeNewObject:PLNT00000286
+2022-08-07 09:10:22   Level:transaction  Text:createUniversObject:PLAY00000284:PLNT
+2022-08-07 09:10:22   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:35:25   Level:debug  Text:sunshine
+2022-08-07 09:35:25   Level:debug  Text:startprogram
+===============
+2022-08-07 09:35:25   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:35:25   Level:transaction  Text:makeNewObject:PLAY00000287
+2022-08-07 09:35:25   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:35:25   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:35:25   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:35:25   Level:transaction  Text:makeNewObject:SHIP00000288
+2022-08-07 09:35:25   Level:transaction  Text:createUniversObject:PLAY00000287:SHIP
+2022-08-07 09:35:25   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:35:25   Level:debug  Text:makeShip:SHIP00000288
+2022-08-07 09:35:25   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:35:25   Level:transaction  Text:makeNewObject:PLNT00000289
+2022-08-07 09:35:25   Level:transaction  Text:createUniversObject:PLAY00000287:PLNT
+2022-08-07 09:35:25   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:37:41   Level:debug  Text:sunshine
+2022-08-07 09:37:41   Level:debug  Text:startprogram
+===============
+2022-08-07 09:37:41   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:37:41   Level:transaction  Text:makeNewObject:PLAY00000290
+2022-08-07 09:37:41   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:37:41   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:37:41   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:37:41   Level:transaction  Text:makeNewObject:SHIP00000291
+2022-08-07 09:37:41   Level:transaction  Text:createUniversObject:PLAY00000290:SHIP
+2022-08-07 09:37:41   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:37:41   Level:debug  Text:makeShip:SHIP00000291
+2022-08-07 09:37:41   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:37:41   Level:transaction  Text:makeNewObject:PLNT00000292
+2022-08-07 09:37:41   Level:transaction  Text:createUniversObject:PLAY00000290:PLNT
+2022-08-07 09:37:41   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:38:55   Level:debug  Text:sunshine
+2022-08-07 09:38:55   Level:debug  Text:startprogram
+===============
+2022-08-07 09:38:55   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:38:55   Level:transaction  Text:makeNewObject:PLAY00000293
+2022-08-07 09:38:55   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:38:55   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:38:55   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:38:55   Level:transaction  Text:makeNewObject:SHIP00000294
+2022-08-07 09:38:55   Level:transaction  Text:createUniversObject:PLAY00000293:SHIP
+2022-08-07 09:38:55   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:38:55   Level:debug  Text:makeShip:SHIP00000294
+2022-08-07 09:38:55   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:38:55   Level:transaction  Text:makeNewObject:PLNT00000295
+2022-08-07 09:38:55   Level:transaction  Text:createUniversObject:PLAY00000293:PLNT
+2022-08-07 09:38:55   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:39:50   Level:debug  Text:sunshine
+2022-08-07 09:39:50   Level:debug  Text:startprogram
+===============
+2022-08-07 09:39:50   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:39:50   Level:transaction  Text:makeNewObject:PLAY00000296
+2022-08-07 09:39:50   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:39:50   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:39:50   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:39:50   Level:transaction  Text:makeNewObject:SHIP00000297
+2022-08-07 09:39:50   Level:transaction  Text:createUniversObject:PLAY00000296:SHIP
+2022-08-07 09:39:50   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:39:50   Level:debug  Text:makeShip:SHIP00000297
+2022-08-07 09:39:50   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:39:50   Level:transaction  Text:makeNewObject:PLNT00000298
+2022-08-07 09:39:50   Level:transaction  Text:createUniversObject:PLAY00000296:PLNT
+2022-08-07 09:39:50   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:41:50   Level:debug  Text:sunshine
+2022-08-07 09:41:50   Level:debug  Text:startprogram
+===============
+2022-08-07 09:41:50   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:41:50   Level:transaction  Text:makeNewObject:PLAY00000299
+2022-08-07 09:41:50   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:41:50   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:41:50   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:41:50   Level:transaction  Text:makeNewObject:SHIP00000300
+2022-08-07 09:41:50   Level:transaction  Text:createUniversObject:PLAY00000299:SHIP
+2022-08-07 09:41:50   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:41:50   Level:debug  Text:makeShip:SHIP00000300
+2022-08-07 09:41:50   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:41:50   Level:transaction  Text:makeNewObject:PLNT00000301
+2022-08-07 09:41:50   Level:transaction  Text:createUniversObject:PLAY00000299:PLNT
+2022-08-07 09:41:50   Level:debug  Text:createUniversObject:PLNT at location:17,6
+2022-08-07 09:42:15   Level:debug  Text:sunshine
+2022-08-07 09:42:15   Level:debug  Text:startprogram
+===============
+2022-08-07 09:42:15   Level:transaction  Text:storeInLong:0:0
+2022-08-07 09:42:15   Level:transaction  Text:makeNewObject:PLAY00000302
+2022-08-07 09:42:15   Level:transaction  Text:createUniversObject:Rich:PLAY
+2022-08-07 09:42:15   Level:debug  Text:createUniversObject:PLAY at location:0,0
+2022-08-07 09:42:15   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:42:15   Level:transaction  Text:makeNewObject:SHIP00000303
+2022-08-07 09:42:15   Level:transaction  Text:createUniversObject:PLAY00000302:SHIP
+2022-08-07 09:42:15   Level:debug  Text:createUniversObject:SHIP at location:17,6
+2022-08-07 09:42:15   Level:debug  Text:makeShip:SHIP00000303
+2022-08-07 09:42:15   Level:transaction  Text:storeInLong:17:6
+2022-08-07 09:42:15   Level:transaction  Text:makeNewObject:PLNT00000304
+2022-08-07 09:42:15   Level:transaction  Text:createUniversObject:PLAY00000302:PLNT
+2022-08-07 09:42:15   Level:debug  Text:createUniversObject:PLNT at location:17,6

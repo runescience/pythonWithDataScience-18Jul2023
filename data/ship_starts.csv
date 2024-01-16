@@ -1,0 +1,9 @@
+Ind,Abbr,Start,HP,Name
+0,pe,200,1,People
+2,mi,3,1,Missiles
+4,ar,3,1,Armor
+5,en,1,10,Engines
+7,md,2,1,Mining drone
+8,ch,1,2,Cargo hold
+9,sc,1,1,Scanner
+16,sp,5,1,Spares

@@ -1,0 +1,452 @@
+      This is a play-by-mail game I've been working on for a while.  I
+      encourage anyone who is interested, to help me play test it.  I will
+      be accepting turns through
+
+                        compuserve: 72550,2440
+                         genie mail:JOELSIR
+                     or through my mailing below.
+
+      The game will commence immediately.
+
+      You have permission to Photocopy these rules, and distribute them
+      freely, as a whole document.  Your comments are welcome.
+
+
+      Commercial Inquiries are welcome.
+
+
+
+
+                         Fighters, Traders, and Colonies
+
+                                 By Joel Siragher
+                                  P.O. Box 4351
+                             Highland Park, NJ 08904
+
+                       Copyright (c) 1990 By Joel Siragher
+
+
+
+
+
+      How to Win
+
+      There are 100 occupiable planets in the game, of the types Barren,
+      Sub-terran, and Terran.  The object of the game is to colonize 60
+      percent of the worlds, or destroy all the other players.  To
+      Accomplish this you need to map out the playing grid  based on the
+      info that your scanners receive, be a strategist, a tactician, and an
+      economist.
+
+      Your transportation among the stars is the formidable VH-SC1 Star
+      Cruiser.  It comes equipped with a standard NCO Bi-cycle Ramscoop
+      Stardrive, Augmentation, crew and enough space in the cargo area to
+      house the Carrier Intrepid.  The government has opened up this
+      frontier of space to privateers and Colonialists as a means of
+      settling and civilizing the area.  So as Commander of your personally
+      owned Star Cruiser, this makes succeeding in your venture all the more
+      challenging.  If you win: Fame, Glory and wealth beyond belief.  Of
+      course if you loose, it's your livelyhood, and maybe the crew, and
+      your life as well!!!
+
+      As you explore and trade, you'll come upon sources of various
+      equiptment to add to your ship and colonies.  These Items are
+      explained on the equiptment list below.
+
+
+      GENERAL RULES:
+      Exploring New Worlds: Your scan report will tell you if you spotted a
+      new world. But the only way to tell what type of world it is, is to
+      move into the sector. You may move into a sector and colonize on the
+      same turn.
+
+      Map Grid:  Each player will get a map and a starting location, with at
+      least one occupied alien world. The map grid is for the play test is
+      30 heigh by 40 wide. There is a boundary around the map grid and you
+      cant see or move beyond the edges.  There are some undocumented
+      hazards.  Ionic Storms, Worm holes, Meteor belts, for example.
+
+      Playtest Rules:  All advanced features will be enabled for the
+      playtest, except for the CET device.  Also all planets will be
+      considered Terran.  There are approximately 60 planets, not including
+      the trade planets.  Hazards do nothing in the playtest version.
+      All players start out at in the center of the map.  All players
+      get 1200 Cr. and 4 Missles.  The map will be an open explored
+      map from the beginning of the game 34 by 44.
+
+      Equipment List
+      Max: This is the number of each item you may have on
+      the ship, but in the case of Missiles, it's the number that may be
+      fired each turn.
+
+      Energy: This is the cost to use this particular item.  If there is a
+      '/' next to the item, then it is the cost to use each of them. Firing
+      5 missiles cost .5 energy pts.  On your turn sheet your you will find
+      the number of energy you can expend for your current turn.  For every
+      2 points of damage your engines have, your energy output is reduced
+      by one.  Write down on your turn sheet where you would like to expend
+      your energy points.  (e.g.:"2.5 on movement; .2 on scanning; .3 on
+      missiles; .5 on refining;  1.5 on shields".)
+
+      Cost: This is the cost to purchase the item at any of the alien
+      worlds.  This cost is multiplied by the Economic rating at the
+      world.  So if you are buying a tech 1 engine at a world with an
+      Eco-rating of 1.1, you can expect to pay 5,500. Damage: This is the
+      damage that the individual system can sustain before becoming
+      useless.  The exception is Spares and Missiles.  If you have 5
+      Missiles (or Spares) and there is damage on your missile (or Spares)
+      system, all remaining missiles (or Spares) become useless.  On the
+      other hand if one shuttle becomes damaged, all of the others do not
+      become damaged.  The unit is called a credit or Cr.
+
+      Start: At the start of the game you have one Star Class Cruiser with
+      the following items:  One Star Cruiser Frame, 3 missiles, 3 armor
+      units, 1 standard engine, 2 mining drones, 1 cargo hull, 1 scanner,
+      and 5 spares.  The Cruiser frame itself is capable of carrying 10,000
+      units of ore.
+
+      Tech:  Each alien world you encounter will have a tech-rating. You can
+      purchase that tech levels supplies or lower.  At a tech 3 world you
+      can purchase tech 1, 2 or 3 stuff.  But at a tech 1 world you can
+      only purchase tech level 1 stuff.
+
+
+      The Item List
+
+Max  Energy Cost   Damage Start Tech
+
+2000        -              200      People (or Crew)
+10000       -                       Ore:(OR)
+10    .1/   50       1     3     1  Missiles:(mi)inflicts 2pts of damage
+
+1     .5    250      1           1  Shields:(sd) reduces damage by 2 times
+                                             energy used
+
+5           50       1     3     1  Armor:(ar) absorbs 3 pts of damage
+
+2           5000    10     1     1  Engines:(en) generates 5 pts of energy
+
+5           2000     1           1  Beam weapon:(bw)
+
+4     .1/   250      1     2     1  Mining drone:(md) mines and retrieves
+                                             upto 1000 units of ore from,
+                                             space or planetside.
+
+5           500      2     1     1  Cargo hold:(ch) holds 10000 units of ore
+1     .2    250      1     1     1  Scanner:(sc) scans out 2 sectors in all
+                                             directions, totalling 24.
+
+-           2500    10           1  Planetary defence battery:(pd) 5 energy,
+                                             10 armor,  and 1 shield device
+
+-     .5    2500     2           1  Refinery:(re) doubles networth of ore,
+                                             refines up to 10,000 per turn
+                                             if you have enough cargo hulls
+
+-     .5    100      2           1  CET:(c) allows colonization of barren
+                                             planets. Uses 1 cargo 
+hull.(Adv)
+
+-           10000    8           1  Cruiser frame:(cr) must be tractored
+                                             till you purchase an engine.
+
+-     .5    2000     1           1  Tractor Beam:(tb) used to tow damaged
+                                             Cruisers
+
+4     .2    500      1           1  Shuttle:(sh) carries 100
+
+10          100      1     5     1  Spares:(sp) used to repair equipment
+
+      The Item List (continued)
+
+Max  Energy Cost   Damage Start Tech
+-     .3    200      1           2  Torpedo:(tp) does 10 pts of damage can 
+be
+                                                fired into another sector in
+                                                the advanced game.
+
+-           500      2           2  Torpedo launcher:(tl)
+
+-           20000   10           2  Planet shield:(ps) impenetrable shield 
+vs
+                                             opponents. uses 1 cargo hull
+-     .5    5000     1           2  Force beam:(fb) ignores armor.
+
+-           5000     1           2  Star bomb:(sb)
+
+4           2500     1           2  Transporter:(ts) cannot get past active
+                                             shield
+
+-           500      1           2  Transporter bomb:(tb) does 1 pt damage
+                                             to engines
+
+2     1.0   1500     1           2  Boosters:(bs) move an extra sector
+
+1           5000     2           3  Enhanced scan +1:(s1) scans the 3 layer.
+
+1           7500     2           3  Enhanced scan +2:(s2) scans the 4 layer.
+
+2(b)        10000   12           3  Enhanced engine:(e1) +1 yields a total 
+of 6
+                                             energy pts
+
+2(b)        15000   14           3  Enhanced engine:(e2) +2 yields a total 
+of 7
+                                             energy pts
+
+1           10000    2           3  Warp drive:(wd) allows use of warp point
+
+-     3.0   2500     2           3  Warp point:(wp) zip from one point in
+                                             space to the next. uses 1/2
+                                             cargo hull
+
+-           10000    1           3  Armageddon device:(ad)  Renders planet
+                                             useless for the remainder of 
+the
+                                             game
+
+1           10000    1           3  Black globe generator:(bb) creates an
+                                             impenetrable field around ship.
+                                             nothing gets in or out. No 
+other
+                                             actions maybe taken during this
+                                             turn.
+
+      (Adv) this may be a feature of the advanced game.
+      '-' means there is a limit of 100. You can store on your ship.
+      (b) means you can have a maximum of 2 engines.  The types may
+      be mixed.  For example, 1 regular engine and one enhanced engine.
+
+      ACTIONS
+      Attacking: if you encounter an enemy ship and if an opponent has been
+      declared an enemy, and you have energy allocated to the weapons, then
+      you will automatically fire on your enemy.  If attacked, your ship
+      will automatically return fire if you have sufficient energy
+      allocated to weapons.
+
+      Bombardment: Missiles do a good job. Each 2 pts that get through the
+      defenses removes 100 people.
+
+      Building Ships: You buy pieces and build ships in space around Alien
+      worlds.
+
+      Buying and Selling: Buy or sell anything to an alien world at the
+      listed value times the Eco-factor.  This may include your own ore.
+
+      Colonization: For Barren worlds you must Shuttle a CET to the planet
+      with at least 1 population unit.  You must have at least 20 people on
+      any of the worlds for the population to increase.  But a world is
+      considered populated with only 1 person on it.  To own an already
+      populated world you must land at least 5 times the number of people
+      on that world, otherwise it belongs to the first person who landed
+      there.  Bombardment reduces the amount of opponents people on a world.
+      You do this by transferring a shuttle to the planet surface.  The
+      shuttle is automatically filled and dispersed on the planet's
+      surface, and returned to your ship.  Maximum colonist transfered per
+      turn is 100 for each shuttle you own. What??  No Shuttles???  NO NEW
+      COLONIES!!!
+
+      Communication:  You may communicate with any player in the game with a
+      3 x 5 card.  Just put the players ship number and game number on it,
+      and I will pass it on to the other player.
+
+      Damage: Damage is applied in this order: shields, armor, Cargo hull,
+      scanners, shuttles, drones, spares, Boosters, remaining weapons,
+      Cruiser Frame, and finally the Engines.  Once your damage points are
+      depleted your are you of the game.
+
+      Declaring: There is a spot to on your turn sheet to declare your
+      opponents Ally or Enemy.  This flag is used solely for the purpose of
+      initiating combat.
+
+      Dumping: Anything may be dumped off your ship for what ever reason.
+      But, if you dump it in space it is not recoverable.  There are
+      exceptions.  But that is for you to find out.  In the advanced game I
+      may allow recoverable CACHES hidden on planets.
+
+      Repair: Assign the number of spares to a specific damaged location.
+      You cannot repair spares or missles.  Anything else is ok to repair.
+
+
+      Actions (continued)
+      Mining: Expend what energy you need to launch your mining drones. The
+      drones will return with ore and your turn sheet will have a report on
+      the ore and it's worth.  If you have refineries the  report will
+      reflect that as well.
+
+      Movement: There are 2 modes of movement.  Normal engine movement and
+      Warping from point A to point B.  In normal movement you allocate
+      from .5 to 2.5 energy units for 1 - 5 spaces in the direction of
+      N,S,E,W and another 1.0 energy point for the extra space using
+      boosters.  Or, you can travel by Warp Points.  You'll need a warp
+      drive and 2 warp points.  After arriving by regular movement to a
+      sector of the players choice, the player uses the transfer command to
+      drop  starting warp point.  The player then goes to some other sector
+      and drops the end warp point. To use the warp point the player must
+      end his turn at either warp point. To use the warp point the player
+      merely allocates 3.0 energy units, and use the special command WARP.
+      In the advanced game the warp points may be destroyed.
+
+      Population: It increases as follows: 20% On Ship,  20% on Terran
+      world, 10% on Sub Terran, 5% on Barren worlds with CET.
+
+
+      Actions (continued)
+
+      Scanning: This takes place after your move.  On the scanner report
+      your ship is not visible, but you are the center most spot.  If you
+      are not actually on the world you will have minimum information about
+      it.
+
+                  Regular Scanners        Enhanced Scan +1
+
+                    23 24 25 26 27       23 24 25 26 27 28 29
+                   7 .  .  .  .  .      7 .  .  .  .  .  .  .
+                   8 .  .  .  .  .      8 .  .  .  .  .  .  .
+                   9 .  . (!) .  .      9 .  .  .  .  .  .  .
+                  10 .  .  .  .  .     10 .  .  . (!) .  .  .
+                  11 .  .  .  .  .     12 .  .  .  .  .  .  .
+                                       13 .  .  .  .  .  .  .
+                                       14 .  .  .  .  .  .  .
+
+
+                               Enhanced Scan +2
+
+                          23 24 25 26 27 28 29 30 31
+                        7 .  .  .  .  .  .  .  . (i)
+                        8 .  .  .  .  .  .  .  .  .
+                        9(w) .  .  .  .  .  .  .  .
+                       10 .  .  .  .  .  .  .  .  .
+                       11 .  .  .  . (!) .  .  .  .
+                       12 .  .  .  .  .  .  .  .  .
+                       13 .  .  .  .  .  .  .  .  .
+                       14 .  .  .  .  .  .  .  . (x)
+                       15(o) .  .  .  .  .  .  .  .
+
+      . Deep Space                        ! Alien Trade World  Eco-Factor 
+1.2
+      i Alien Trade World                 w Populated world
+      x System with Occupiable Planet     o Opponents ship
+
+      Transfers: You may transfer to another players ship is in your sector.
+
+      Turn Processing
+
+      This is the order of a turn
+       A)Declare - players as enemy or ally
+       B)Trade - conduct trade
+       C)Mining - Automatically conclude mining
+       D)Movement - move the ship
+       E)Scanning - scan with in your ship's ability
+       F)Combat - conduct combat with ships scanned within your sector.
+
+      Command format of Special Actions: (official syntax to follow)
+      Warp
+      Transfer
+      Buy
+      Sell
+      Dump
+      Move
+      Energize
+      Repair
+      Bombard
+      Initial Turn Sheet
+
+      Your ship: SHIP1.1   Player:1 OF 4   Engines:REGULAR AND NONE  
+energy:5
+      Turn:1
+
+      You Have:
+      CREW:200                            CRUISER FRAME:1, undamaged
+      ARMOR:3, undamaged                  REGULAR ENGINE:1, undamaged
+      MISSILES:7, undamaged               MINING DRONES:2, undamaged
+      CARGO HULL:1, undamaged             SCANNER:1, undamaged
+      ORE:800, AVERAGE WORTH:300
+
+      Your 2 Mining Drone brought in a total of 600 units of GOOD ore.
+      You are at:3,3
+
+         1  2  3  4  5
+       1 .  .  .  .  .
+       2 .  .  .  .  .
+       3 .  . (!) .  .
+       4 .  .  .  .  .
+       5 .  .  .  . (x)
+
+      . Deep Space
+      ! Alien Trade World  Eco-Factor 1.1
+      x System with Occupiable Planet
+
+      MOVEMENT:N,N,N,E,N
+      ENERGIZE:MOVE:2.5
+      ENERGIZE:SCAN:0.2
+      ENERGIZE:MISSILE:0.3
+      ENERGIZE:MINING:0.2
+      DECLARE:2:ALLY
+      DECLARE:3:ENEMY
+      DECLARE:4:ENEMY
+      SELL:OR:600
+      BUY:MD:1
+      BUY:AR:1
+
+
+      Sample Turn Sheet
+
+      Your ship: SHIP1.1   Player:1 OF 4   Engines:REGULAR AND NONE  
+energy:5
+      Turn:10
+
+      You Have:
+      CREW:600
+      ORE:5700, WORTH:1236
+      REGULAR ENGINE:1, undamaged
+      CRUISER FRAME:1, undamaged
+      MISSILES:7, undamaged
+      CARGO HULL:1, undamaged
+      MINING DRONES:4, undamaged
+      SHUTTLES:1, #1:undamaged #2:DAMAGED
+      SHIELDS:1, undamaged
+
+        23 24 25 26 27
+       7 .  .  .  .  .
+       8 .  .  .  .  .
+       9 .  . (!) .  .
+      10 .  .  .  .  .
+      11 .  .  .  .  .
+
+      (!) Alien World: tech2, Eco-Factor:1.0       .  Deep Space
+
+      YOUR COLONY#1:(Terran:2,2),
+            POPULATION:160,
+            (pd:5),
+            (mi:15),
+            (sh:1)
+
+      MOVEMENT:N,N,N,E,N
+                                     //Energy Expenditure
+      ENERGIZE:MOVE:2.5
+      ENERGIZE:SCAN:0.2
+      ENERGIZE:MISSILE:0.3
+      ENERGIZE:MINING:0.2
+      ENERGIZE:SHIELDS:1.5
+                                     //Declaring
+      DECLARE:2:ALLY
+      DECLARE:3:ALLY
+      DECLARE:4:ENEMY
+                                    //BUY/SELL:ITEM,QUANTITY
+      SELL:OR:5700                  //sell 5700 units of ore
+      BUY:M:5                       //buy 5 missiles
+      BUY:SH:1                      //buy 1 shuttle
+      BUY:C:1                       //buy 1 CET
+      REPAIR:SH:1                   //Repair shuttle with 1 spare
+
+
+
+
+
+
+
+
+
+
+
