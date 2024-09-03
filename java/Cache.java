@@ -25,7 +25,7 @@ public class Cache implements Serializable {
 
 
 	public String stmtCreateTable =
-		"CREATE TABLE Cache "
+		"CREATE TABLE IF NOT EXIST Cache "
 			+ " (Owner VARCHAR(24) NOT NULL ,"
 			+ " TaskForceTag VARCHAR(24) NOT NULL ,"
 			+ " Shortname INTEGER,"
