@@ -7,6 +7,7 @@ import InventoryRoutes from "../src/routes/InventoryRoutes.js";
 import CacheRoutes from "../src/routes/CacheRoutes.js";
 import GameDefinitionRoutes from "../src/routes/GameDefinitionRoutes.js";
 import HazardRoutes from "../src/routes/HazardRoutes.js";
+import PlanetRoutes from "../src/routes/PlanetRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -48,6 +49,7 @@ app.use("/inventory", InventoryRoutes);
 app.use("/cache", CacheRoutes);
 app.use("/gamedefinition", GameDefinitionRoutes);
 app.use("/hazard", HazardRoutes);
+app.use("/planet", PlanetRoutes);
 
 // teamid:555,
 // teamname:blue, 
