@@ -22,14 +22,15 @@ const loadInventoryData = async () => {
             // Parse comma-separated values
             const parts = line.split(',').map(p => p.trim());
             
-            // Skip if we don't have enough fields
-            if (parts.length < 13) {
+            // Skip if we don't have at least 10 fields (the minimum required)
+            if (parts.length < 10) {
                 console.log(`Skipping line (insufficient fields): ${line}`);
                 continue;
             }
             
             // Map the fields according to the format:
-            // availableSpaces, Cost, Energy, Tech, Advancedgame, Max, Startquan, Name, Abbrev, Comment, Group, Bonus
+            // availableSpaces, Cost, Energy, Tech, Advancedgame, Max, Startquan, Name, Abbrev, Comment
+            // Group and Bonus are optional (fields 11 and 12)
             const inventoryItem = {
                 availableSpaces: parseInt(parts[0]) || 0,
                 Cost: parseInt(parts[1]) || 0,
@@ -41,8 +42,8 @@ const loadInventoryData = async () => {
                 Name: parts[7] || '',
                 Abbrev: parts[8] || '',
                 Comment: parts[9] || '',
-                Group: parts[10] || '',
-                Bonus: parts[11] || ''
+                Group: parts[10] || 'NONE',  // Default value if not provided
+                Bonus: parts[11] || ''        // Default value if not provided
             };
             
             // Skip if Name is empty or just placeholder characters
