@@ -9,6 +9,7 @@ import GameDefinitionRoutes from "../src/routes/GameDefinitionRoutes.js";
 import HazardRoutes from "../src/routes/HazardRoutes.js";
 import PlanetRoutes from "../src/routes/PlanetRoutes.js";
 import PlayerAccountRoutes from "../src/routes/PlayerAccountRoutes.js";
+import ShipRoutes from "../src/routes/ShipRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -52,6 +53,7 @@ app.use("/gamedefinition", GameDefinitionRoutes);
 app.use("/hazard", HazardRoutes);
 app.use("/planet", PlanetRoutes);
 app.use("/playeraccount", PlayerAccountRoutes);
+app.use("/ship", ShipRoutes);
 
 // teamid:555,
 // teamname:blue, 
