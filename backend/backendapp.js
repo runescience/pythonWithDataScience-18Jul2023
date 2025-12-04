@@ -10,6 +10,7 @@ import HazardRoutes from "../src/routes/HazardRoutes.js";
 import PlanetRoutes from "../src/routes/PlanetRoutes.js";
 import PlayerAccountRoutes from "../src/routes/PlayerAccountRoutes.js";
 import ShipRoutes from "../src/routes/ShipRoutes.js";
+import UniverseRoutes from "../src/routes/UniverseRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -54,6 +55,7 @@ app.use("/hazard", HazardRoutes);
 app.use("/planet", PlanetRoutes);
 app.use("/playeraccount", PlayerAccountRoutes);
 app.use("/ship", ShipRoutes);
+app.use("/universe", UniverseRoutes);
 
 // teamid:555,
 // teamname:blue, 

@@ -9,6 +9,7 @@ import { Hazard } from "../entity/Hazard.js";
 import { Planet } from "../entity/Planet.js";
 import { PlayerAccount } from "../entity/PlayerAccount.js";
 import { Ship } from "../entity/Ship.js";
+import { Universe } from "../entity/Universe.js";
 
 
 export const AppDataSource = new DataSource({
@@ -26,5 +27,6 @@ export const AppDataSource = new DataSource({
         Planet,
         PlayerAccount,
         Ship,
+        Universe,
     ],
 });
