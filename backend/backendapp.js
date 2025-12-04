@@ -4,6 +4,7 @@ import { AppDataSource } from "../src/config/database.js"; // Corrected import
 import TeamsRoutes from "../src/routes/TeamRoutes.js";
 import PartStatusRoutes from "../src/routes/PartStatusRoutes.js";
 import InventoryRoutes from "../src/routes/InventoryRoutes.js";
+import CacheRoutes from "../src/routes/CacheRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -42,6 +43,7 @@ AppDataSource.initialize()
 app.use("/teams", TeamsRoutes);
 app.use("/partstatus", PartStatusRoutes);
 app.use("/inventory", InventoryRoutes);
+app.use("/cache", CacheRoutes);
 
 // teamid:555,
 // teamname:blue, 
