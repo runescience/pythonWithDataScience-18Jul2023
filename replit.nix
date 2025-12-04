@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.nodejs-17_x
     pkgs.glibcLocales
     pkgs.glibc
     pkgs.tk
