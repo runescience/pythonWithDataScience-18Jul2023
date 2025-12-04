@@ -1,6 +1,6 @@
 import { DataSource } from "typeorm";
 
-import { QuestionType } from "../entity/QuestionType.js";
+import { Team } from "../entity/Team.js";
 
 
 export const AppDataSource = new DataSource({
@@ -9,8 +9,7 @@ export const AppDataSource = new DataSource({
     synchronize: true,
     logging: false,
     entities: [
-
-        QuestionType,
+        Team,
 
     ],
 });

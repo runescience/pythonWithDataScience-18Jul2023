@@ -1,9 +1,7 @@
 import express from "express";
 import "reflect-metadata";
-import pkg from "../src/config/database.js"; // Import the entire module
-const { AppDataSource } = pkg; // Destructure AppDataSource from the imported module
-
-import QuestionTypeRoutes from "../src/routes/QuestionTypesRoutes.js";
+import { AppDataSource } from "../src/config/database.js"; // Corrected import
+import TeamsRoutes from "../src/routes/TeamRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -39,4 +37,13 @@ AppDataSource.initialize()
     });
 
 // Use routes
-app.use("/questiontypes", QuestionTypeRoutes);
+app.use("/teams", TeamsRoutes);
+
+// teamid:555,
+// teamname:blue, 
+// author:joel,
+// updated_on:"12/12/2025",
+// is_active:true, contact:"rob",
+// description:"no description today"
+
+
