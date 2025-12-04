@@ -2,6 +2,7 @@ import express from "express";
 import "reflect-metadata";
 import { AppDataSource } from "../src/config/database.js"; // Corrected import
 import TeamsRoutes from "../src/routes/TeamRoutes.js";
+import PartStatusRoutes from "../src/routes/PartStatusRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -38,6 +39,7 @@ AppDataSource.initialize()
 
 // Use routes
 app.use("/teams", TeamsRoutes);
+app.use("/partstatus", PartStatusRoutes);
 
 // teamid:555,
 // teamname:blue, 
