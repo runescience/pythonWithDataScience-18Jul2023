@@ -4,6 +4,7 @@ import { Team } from "../entity/Team.js";
 import { PartStatus } from "../entity/PartStatus.js";
 import { Inventory } from "../entity/Inventory.js";
 import { Cache } from "../entity/Cache.js";
+import { GameDefinition } from "../entity/GameDefinition.js";
 
 
 export const AppDataSource = new DataSource({
@@ -16,5 +17,6 @@ export const AppDataSource = new DataSource({
         PartStatus,
         Inventory,
         Cache,
+        GameDefinition,
     ],
 });

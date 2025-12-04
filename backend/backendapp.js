@@ -5,6 +5,7 @@ import TeamsRoutes from "../src/routes/TeamRoutes.js";
 import PartStatusRoutes from "../src/routes/PartStatusRoutes.js";
 import InventoryRoutes from "../src/routes/InventoryRoutes.js";
 import CacheRoutes from "../src/routes/CacheRoutes.js";
+import GameDefinitionRoutes from "../src/routes/GameDefinitionRoutes.js";
 import cors from "cors";
 import fs from "fs";
 
@@ -44,6 +45,7 @@ app.use("/teams", TeamsRoutes);
 app.use("/partstatus", PartStatusRoutes);
 app.use("/inventory", InventoryRoutes);
 app.use("/cache", CacheRoutes);
+app.use("/gamedefinition", GameDefinitionRoutes);
 
 // teamid:555,
 // teamname:blue, 
