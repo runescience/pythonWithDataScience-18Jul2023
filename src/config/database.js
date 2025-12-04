@@ -7,6 +7,7 @@ import { Cache } from "../entity/Cache.js";
 import { GameDefinition } from "../entity/GameDefinition.js";
 import { Hazard } from "../entity/Hazard.js";
 import { Planet } from "../entity/Planet.js";
+import { PlayerAccount } from "../entity/PlayerAccount.js";
 
 
 export const AppDataSource = new DataSource({
@@ -22,5 +23,6 @@ export const AppDataSource = new DataSource({
         GameDefinition,
         Hazard,
         Planet,
+        PlayerAccount,
     ],
 });
