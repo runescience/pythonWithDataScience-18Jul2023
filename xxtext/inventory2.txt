@@ -1,5 +1,20 @@
 
-1,100,00,1,1,100,10,SPARES,SP, Repair Damage 1:1,
+
+1,       (1: avail)
+100,     (2: cost)
+00,      (3: energy)
+1,       (4: tech)
+1,       (5: advanced game)
+100,     (6: max)
+10,      (7: start quan)
+SPARES,  (8: name)
+SP,      (9: abbriev)
+Repair Damage 1:1,   (10: comment)
+
+
+
+
+
 1,1,00,1,1, 2000,100,PEOPLE,PE,  are used to colonize. POP grows at 10% on ships;,
 1,1,00,1,1, 65000,50,MONEY,MO,  is what you spend to buy things.,
 1,250,1,1,1, 99,10,SHIELDS,SH, Stops 3 pts of damage per .1 of energy spent.,
