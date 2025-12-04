@@ -24,4 +24,4 @@
 1, 50000,04,4,1,  1,0,TELEPORTER 1,  T1, Teleports upto size 1 anywhere in sector,
 1, 95000,04,4,1,  1,0,TELEPORTER 2,  T2, Teleports upto size 2 anywhere in sector,
 1,  5000,00,4,1,  1,0,COMM BEACONS, CB, You are alerted as to passing ships,
-1,0,00,1,1,100,0,"a","b", "c",
+1,     0,00,1,1,100,0,            a,bb, cc,
