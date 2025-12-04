@@ -1,6 +1,8 @@
 import { DataSource } from "typeorm";
 
 import { Team } from "../entity/Team.js";
+import { PartStatus } from "../entity/PartStatus.js";
+import { Inventory } from "../entity/Inventory.js";
 
 
 export const AppDataSource = new DataSource({
@@ -10,6 +12,7 @@ export const AppDataSource = new DataSource({
     logging: false,
     entities: [
         Team,
-
+        PartStatus,
+        Inventory,
     ],
 });
