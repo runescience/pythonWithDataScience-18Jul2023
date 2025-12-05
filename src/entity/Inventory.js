@@ -5,11 +5,16 @@ export const Inventory = new EntitySchema({
     name: "Inventory",
     tableName: "inventory",
     columns: {
-        inventory_id: {
+        Abbrev: {
             type: "varchar",
             primary: true,
-            length: 8,
+            length: 10,
             nullable: false,
+        },
+        inventory_id: {
+            type: "varchar",
+            length: 10,
+            nullable: true,
         },
         availableSpaces: {
             type: "int",
@@ -49,11 +54,6 @@ export const Inventory = new EntitySchema({
         Name: {
             type: "varchar",
             length: 100,
-            nullable: true,
-        },
-        Abbrev: {
-            type: "varchar",
-            length: 10,
             nullable: true,
         },
         Comment: {
