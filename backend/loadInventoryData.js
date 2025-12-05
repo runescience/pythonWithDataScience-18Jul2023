@@ -58,7 +58,7 @@ const loadInventoryData = async () => {
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify(inventoryItem)
+                    body: JSON.stringify({ ...inventoryItem, inventory_id: undefined }) // Remove inventory_id by setting it to undefined
                 });
                 
                 if (response.ok) {

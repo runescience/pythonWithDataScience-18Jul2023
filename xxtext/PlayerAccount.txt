@@ -1,2 +1,2 @@
-Joel, Siragher, runescience@yahoo.com, jodasi, dungeon, "bichon", 5,
-Rich, Martin, martin@pe.net, martin, 4martian, "dnd", 4
+Joel, Siragher, joel.siragher@google.com, jodasi, dungeon, "acctbichon", 5,
+Rich, Martin, martin@pe.net, martin, 4martian, "acctdnd", 4
